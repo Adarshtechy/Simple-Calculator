@@ -14,7 +14,7 @@ This project focuses on clean UI design, usability, and interactive features com
 - Smooth animations and button interactions
 - Mobile-friendly layout
 
-## 🛠️ Technologies Used
+## 🛠️ TechnologieUsed
 
 - HTML5
 - CSS3
