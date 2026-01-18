@@ -37,4 +37,4 @@ web-calculator/
    git clone https://github.com/Adarshtechy/web-calculator.git
    ```
 2. Open `index.html` in your browser  
-   - No additional setup is required.
+  - No additional setup is required.
