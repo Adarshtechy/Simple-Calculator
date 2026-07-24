@@ -1,40 +1,55 @@
-## Web Calculator
+# Simple Calculator
 
-A modern and responsive web-based calculator built using HTML, CSS, and JavaScript.  
-This project focuses on clean UI design, usability, and interactive features commonly found in real-world calculator applications.
+A clean and responsive web calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations with a simple and user-friendly interface.
 
-## ✨ Features
+## Features
 
-- Responsive calculator interface
 - Basic arithmetic operations
-- Light and dark theme toggle
-- Calculation history with clear option
-- Keyboard input support
-- Input validation and error handling
-- Smooth animations and button interactions
-- Mobile-friendly layout
+  - Addition (+)
+  - Subtraction (-)
+  - Multiplication (×)
+  - Division (÷)
+  - Percentage (%)
+- Responsive design
+- Keyboard support
+- Clear (AC) and Delete (DEL) buttons
+- Clean and modern UI
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
-- Font Awesome
-- Google Fonts
+- JavaScript (ES6)
 
-## 📁 Project Structure
+## Project Structure
+
 ```
-web-calculator/
-├── index.html     # Main HTML file
-├── style.css      # Styling, themes, and animations
-├── script.js      # Calculator logic and interactions
+Simple-Calculator/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Adarshtechy/web-calculator.git
-   ```
-2. Open `index.html` in your browser  
-   - No additional setup is required.
+1. Clone the repository.
+
+```bash
+git clone https://github.com/Adarshtechy/Simple-Calculator.git
+```
+
+2. Open the project folder.
+
+3. Run `index.html` in your browser.
+
+## Future Improvements
+
+- Scientific calculator functions
+- Calculation history
+- Copy result
+- Keyboard shortcuts enhancement
+
+---
+
+Made with ❤️ using HTML, CSS, and JavaScript.
